@@ -1,4 +1,4 @@
-**## Project Objective**
+****## Project Objective****
 
 The objective of this project is to analyze and visualize car sales performance across multiple automobile brands and models to help stakeholders:
 
@@ -19,7 +19,7 @@ Total Revenue: 1,201M
 Variants: 146
 - Dashboard Interaction <a href="https://github.com/imranahmad7978/Data-Analysis-Dashboard/blob/main/Screenshot%202026-01-10%20142003.png">View Dashboard</a>
 
-##Process
+**##Process**
 1 Data Collection
 Imported raw car sales data into Power BI from Excel/CSV.
 
@@ -47,5 +47,7 @@ Applied consistent color theme
 Added brand logos for better visual appeal
 Enabled interactivity with slicers
 
-##Dashboard
-"C:\Users\Imran Ahmad\OneDrive\Pictures\Screenshots\Screenshot 2026-01-10 142003.png"
+**##Dashboard**
+<img width="962" height="591" alt="Screenshot 2026-01-10 142003" src="https://github.com/user-attachments/assets/4b619212-cda6-4709-a1bb-78550b88a715" />
+
+
