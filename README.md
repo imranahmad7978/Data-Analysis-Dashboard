@@ -1,3 +1,7 @@
+
+**Car-Sales-Data-Analysis(Interactive Dashboard MS Excel & Power BI)**
+
+
 ****## Project Objective****
 
 The objective of this project is to analyze and visualize car sales performance across multiple automobile brands and models to help stakeholders:
@@ -50,4 +54,19 @@ Enabled interactivity with slicers
 **##Dashboard**
 <img width="962" height="591" alt="Screenshot 2026-01-10 142003" src="https://github.com/user-attachments/assets/4b619212-cda6-4709-a1bb-78550b88a715" />
 
+**Project Insights**
+Volkswagen and Toyota emerge as the top-performing brands, contributing the highest share of total units sold and revenue.
 
+The model Golf is the highest revenue-generating car, making it a key product for business growth.
+
+Premium brands like BMW and Audi generate higher market value despite comparatively lower units sold, indicating strong pricing power.
+
+The sales trend shows steady growth over the years, reflecting increasing market demand, followed by a recent decline that may indicate market saturation or external factors.
+
+A wide range of 146 variants highlights strong product diversification, helping brands cater to different customer segments.
+
+Market share distribution reveals a competitive automobile market, where no single brand completely dominates.
+
+ **Final Conclusion**
+
+The Car Sales Power BI Dashboard successfully provides a comprehensive and interactive view of automobile sales performance across brands and models. By combining KPIs, market share analysis, revenue insights, and trend analysis, the dashboard enables stakeholders to quickly identify top-performing brands, profitable models, and changing market patterns.
